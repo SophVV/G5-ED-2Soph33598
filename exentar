@@ -1,94 +1,90 @@
-
 public class Main {
+    public static void main(String[] args) {
+                //TODO Auto-generated method stub
+                ListaEnLazada lista=new ListaEnLazada();
+        lista.mostrar();
+                lista.añadirInicio(23);
+                lista.AñadirFinal(4);
+                lista.AñadirFinal(74);
+                lista.añadirInicio(32);
 
-        public static void wain (Sting[]arg){
-            //TODO Auto-generated method stub
-            ListaEnLazada lista=new ListaEnLazada();
-            lista.añadirInicio(23);
-            lista.AñadirFinal(4);
-            lista.AñadirFinal(74);
-            lista.AñadirFinal(32);
+                lista.borrarValor(23);
 
-            lista.borrarValor(23);
-
-            lista.mostrar();
-        }
-}
-
-class nodo{
-    int valor;
-    nodo siguiente;
-    
-    nodo(int valor){
-        this.valor=valor;
-
-    }
-}
-class ListaEnLazada{
-    nodo cabeza;
-
-    public void AñadirFinal(int valor){
-        //Verificar si nuestra lista enlazada esta vacia 
-        if(vacia()==true) {
-            cabeza=new nodo (valor); 
-            return;
-        }
-        //caso contrario... iterar hasta encontrar ultimo elemento
-        nodo mensajero=cabeza;
-        while(mensajero.siguiente!=null) {
-            mensajero=mensajero.siguiente;
-        }
-        mensajero.siguiente=new nodo(valor); //para añadir al final
-    }
-    public void añadirInicio(int valor) {
-        //Verificar si lista esta vacia
-        if(vacia()){
-            cabeza=new nodo(valor);
-            return;
-        }
-        //1. Crear nodo
-        nodo nuevo=new nodo(valor);
-        nuevo.siguiente=cabeza;
-        cabeza=nuevo;//para que vaya al inicio
-    }
-    public void borrarValor(int valor){
-        //Verificar si nuestra lista esta vacia
-        if(vacia())return; //si no hay nada no hagas nada
-
-        //si cabeza es el nodo que queremos eliminar
-        if(cabeza.valor==valor){
-            cabeza=cabeza.siguiente;
-            return;
-        }
-
-        //iterar hasta encontrar un nodo antes del que queremos eliminar
-        nodo mensajero=cabeza;
-        while(mensajero.siguiente!=null) {
-            if (mensajero.siguiente.valor==valor) {
-                mensajero.siguiente=mensajero.siguiente.siguiente;
-                return;
+                lista.mostrar();
             }
-            mensajero==mensajero.siguiente; //si es el mismo pues al siguiente;
+        }
 
-        }
-    }
+        class nodo{
+            int valor;
+            nodo siguiente;
 
-    public void mostrar() {
-        //verificar si la lista esta vacia
-        if (vacia()){
-            System.out.print("Lista vacia");
-            return;
+            nodo(int valor){
+                this.valor=valor;
+
+            }
         }
-        nodo mensajero=cabeza;
-        while(mensajero=null){
-            System.out.print("\n"+mensajero.valor);
-            mensajero=mensajero.siguiente;
+        class ListaEnLazada{
+            nodo cabeza;
+
+            public void AñadirFinal(int valor){
+                //Verificar si nuestra lista enlazada esta vacia
+                if(vacia()==true) {
+                    cabeza=new nodo (valor);
+                }
+                //caso contrario... iterar hasta encontrar ultimo elemento
+                nodo mensajero=cabeza;
+                while(mensajero.siguiente!=null) {
+                    mensajero=mensajero.siguiente;
+                }
+                mensajero.siguiente=new nodo(valor); //para añadir al final
+            }
+            public void añadirInicio(int valor) {
+                //Verificar si lista esta vacia
+                if(vacia()){
+                    cabeza=new nodo(valor);
+                }
+                //1. Crear nodo
+                nodo nuevo=new nodo(valor);
+                nuevo.siguiente=cabeza;
+                cabeza=nuevo;//para que vaya al inicio
+            }
+            public void borrarValor(int valor){
+                //Verificar si nuestra lista esta vacia
+                if(vacia()){System.out.print("Lista vacia");} //si no hay nada no hagas nada
+
+                //si cabeza es el nodo que queremos eliminar
+                if(cabeza.valor==valor){
+                    cabeza=cabeza.siguiente;
+                }
+
+                //iterar hasta encontrar un nodo antes del que queremos eliminar
+                nodo mensajero=cabeza;
+                while(mensajero.siguiente!=null) {
+                    if (mensajero.siguiente.valor==valor) {
+                        mensajero.siguiente=mensajero.siguiente.siguiente;
+                    }
+                    mensajero=mensajero.siguiente; //si es el mismo pues al siguiente;
+
+                }
+            }
+
+            public void mostrar() {
+                //verificar si la lista esta vacia
+                if (vacia()){
+                    System.out.print("Lista vacia");
+                }
+                nodo mensajero=cabeza;
+                while(mensajero!=null){
+                    System.out.print("\n"+mensajero.valor);
+                    mensajero=mensajero.siguiente;
+                }
+            }
+            private boolean vacia() { //para no repetir lo de arriba
+                if(cabeza==null){
+                    return true;
+                }
+                else{
+                    return false;
+                }
+            }
         }
-    }
-    private boolean vacia() { //para no repetir lo de arriba
-        if(cabeza==null)return true;
-        else{
-            return false;
-        }
-    }
-}
