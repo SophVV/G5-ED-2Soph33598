@@ -1,0 +1,32 @@
+c:\users\hernandez\documents\visual studio 2013\Projects\NodoArbolBusqueda\NodoArbolBusqueda\bin\Debug\NodoArbolBusqueda.exe.config
+C:\Users\HERNANDEZ\documents\visual studio 2013\Projects\NodoArbolBusqueda\NodoArbolBusqueda\bin\Debug\NodoArbolBusqueda.exe
+C:\Users\HERNANDEZ\documents\visual studio 2013\Projects\NodoArbolBusqueda\NodoArbolBusqueda\bin\Debug\NodoArbolBusqueda.pdb
+C:\Users\HERNANDEZ\documents\visual studio 2013\Projects\NodoArbolBusqueda\NodoArbolBusqueda\obj\Debug\NodoArbolBusqueda.csprojResolveAssemblyReference.cache
+C:\Users\HERNANDEZ\documents\visual studio 2013\Projects\NodoArbolBusqueda\NodoArbolBusqueda\obj\Debug\NodoArbolBusqueda.exe
+C:\Users\HERNANDEZ\documents\visual studio 2013\Projects\NodoArbolBusqueda\NodoArbolBusqueda\obj\Debug\NodoArbolBusqueda.pdb
+E:\DOCTOS VARIOS\Bluetooth\NodoArbolBusqueda\NodoArbolBusqueda\bin\Debug\NodoArbolBusqueda.exe.config
+E:\DOCTOS VARIOS\Bluetooth\NodoArbolBusqueda\NodoArbolBusqueda\obj\Debug\NodoArbolBusqueda.exe
+E:\DOCTOS VARIOS\Bluetooth\NodoArbolBusqueda\NodoArbolBusqueda\obj\Debug\NodoArbolBusqueda.pdb
+E:\DOCTOS VARIOS\Bluetooth\NodoArbolBusqueda\NodoArbolBusqueda\bin\Debug\NodoArbolBusqueda.exe
+E:\DOCTOS VARIOS\Bluetooth\NodoArbolBusqueda\NodoArbolBusqueda\bin\Debug\NodoArbolBusqueda.pdb
+E:\DOCTOS VARIOS\Bluetooth\NodoArbolBusqueda\NodoArbolBusqueda\obj\Debug\NodoArbolBusqueda.csprojResolveAssemblyReference.cache
+E:\DOCTOS VARIOS\Bluetooth\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\bin\Debug\NodoArbolBusqueda.exe.config
+E:\DOCTOS VARIOS\Bluetooth\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\obj\Debug\NodoArbolBusqueda.exe
+E:\DOCTOS VARIOS\Bluetooth\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\obj\Debug\NodoArbolBusqueda.pdb
+E:\DOCTOS VARIOS\Bluetooth\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\bin\Debug\NodoArbolBusqueda.exe
+E:\DOCTOS VARIOS\Bluetooth\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\bin\Debug\NodoArbolBusqueda.pdb
+E:\DOCTOS VARIOS\Bluetooth\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\obj\Debug\NodoArbolBusqueda.csprojResolveAssemblyReference.cache
+C:\Users\HERNANDEZ\Desktop\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\bin\Debug\NodoArbolBusqueda.exe.config
+C:\Users\HERNANDEZ\Desktop\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\obj\Debug\NodoArbolBusqueda.exe
+C:\Users\HERNANDEZ\Desktop\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\obj\Debug\NodoArbolBusqueda.pdb
+C:\Users\HERNANDEZ\Desktop\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\bin\Debug\NodoArbolBusqueda.exe
+C:\Users\HERNANDEZ\Desktop\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\bin\Debug\NodoArbolBusqueda.pdb
+C:\Users\HERNANDEZ\Desktop\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\obj\Debug\NodoArbolBusqueda.csprojResolveAssemblyReference.cache
+C:\Users\52664\Downloads\PROYECTO FINAL TERMINADO ARBOLES\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\bin\Debug\NodoArbolBusqueda.exe.config
+C:\Users\52664\Downloads\PROYECTO FINAL TERMINADO ARBOLES\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\bin\Debug\NodoArbolBusqueda.exe
+C:\Users\52664\Downloads\PROYECTO FINAL TERMINADO ARBOLES\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\bin\Debug\NodoArbolBusqueda.pdb
+C:\Users\52664\Downloads\PROYECTO FINAL TERMINADO ARBOLES\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\obj\Debug\NodoArbolBusqueda.csproj.AssemblyReference.cache
+C:\Users\52664\Downloads\PROYECTO FINAL TERMINADO ARBOLES\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\obj\Debug\NodoArbolBusqueda.csproj.SuggestedBindingRedirects.cache
+C:\Users\52664\Downloads\PROYECTO FINAL TERMINADO ARBOLES\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\obj\Debug\NodoArbolBusqueda.csproj.CoreCompileInputs.cache
+C:\Users\52664\Downloads\PROYECTO FINAL TERMINADO ARBOLES\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\obj\Debug\NodoArbolBusqueda.exe
+C:\Users\52664\Downloads\PROYECTO FINAL TERMINADO ARBOLES\PROYECTO FINAL TERMINADO ARBOLES\NodoArbolBusqueda\obj\Debug\NodoArbolBusqueda.pdb
